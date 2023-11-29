@@ -1,0 +1,165 @@
+
+h1{
+    color: rgb(15, 17, 19);
+} 
+body {
+    background-color: white;
+
+}
+
+
+.corpo{
+    background-color: aliceblue;
+}
+.imagem{
+    width: 1200px;
+    height: 300px;
+    border-radius: 0px;
+}
+
+.vitoria {
+    text-align: center;
+   
+}
+
+
+.teste{
+    width: 1800px;
+    text-align: center;
+    font-size: 25px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.paragrafo {
+    color: white;
+    
+}
+.gabigol {
+    width: 600px;
+    height: 380px;
+}
+.img{
+    width: 300px;
+    height: 200px;
+    border: 3px solid ; 
+}
+
+.foto1 {
+    width: 220px;
+    height: 200px;
+    border-radius: 100%
+}   
+
+.foto2 {
+    width: 220px;
+    height: 200px;
+    border-radius: 100%;
+}
+
+.REDONDO {
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
+    margin-left: 15%;
+    align-items: center;
+    justify-content: center;
+}
+.paragrafo1{
+    color: rgb(37, 44, 49);
+    width: 100%;
+    font-size: 30px;
+    margin-top: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+    
+}
+.paragrafo2{
+    color: green;
+    width: 100%;
+    font-size: 25px;
+    margin-top: 8px;
+
+}
+.foto3 {
+    display: flex;
+    flex-direction: row;
+    height: 200px;
+    width: 220px;
+    margin-left: 22%;
+    border-radius: 100%;
+    
+    
+}
+.ODS{
+    width: 100px;
+    height: 60px;
+    border-radius: 7px;
+    
+}
+.paragrafo3{
+    color: rgb(37, 44, 49);
+    width: 100%;
+    font-size: 25px;
+    margin-top: 8px;
+    }
+    .foto4{
+        width: 40%;
+        height: 3%;
+        
+        
+    }
+    .subtitulo{
+        width: 100%;
+        font-size: 25px;
+        margin-top: 8px;
+        
+    }
+    .topico{
+        width: 100%;
+        font-size: 25px;
+        margin-top: 8px;
+    }
+    .lista{
+        width: 100%;
+        font-size: 30px;
+        margin-top: 50px;
+
+    }
+
+    .container {
+        display: flex;
+        justify-content: center;
+        flex-direction: row;
+        color: green;
+        font-size: 25px;
+        margin-top: 8px;
+    }
+    .psc{
+        width: 100%;
+        font-size: 30px;
+        margin-top: 50px;
+        text-align: center;
+        
+    }
+    .imagem2{
+        display: flex;
+        justify-content: center;
+        margin-left: 399PX;
+        
+    }
+    
+    .link {
+        display: flex;
+        flex-direction: row;
+        margin-top: 20px;
+        margin-left: 740px;
+        font-size: 20px;
+        color: green;
+    }
+
+    
+    
+
+    
